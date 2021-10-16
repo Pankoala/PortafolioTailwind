@@ -1,0 +1,9 @@
+#home-hero{
+    background-image: url("../../Assets/img/SaturnBG.png");
+}
+#home-hero h1{
+    color: #00ffff;
+}
+#two-col{
+    background-color: #1e1e1e;
+}
